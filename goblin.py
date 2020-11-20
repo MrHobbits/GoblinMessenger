@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 from math import sqrt
 from os import system as cmd
 import random
