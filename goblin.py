@@ -1,9 +1,10 @@
-#!/usr/bin/env python3
+#! /usr/bin/env python3
 from math import sqrt
 from os import system as cmd
 import random
 
 PROGRAM_AUTHOR = "Ryan 'Mr Hobbits' (www.mrhobbits.com)"
+CONTACT_INFO = "Twitter: @Mr_Hobbits, Email: mrhobbits[at]mrhobbits.com"
 CURRENT_VERSION = "0.2"
 
 
